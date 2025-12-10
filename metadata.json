@@ -1,0 +1,5 @@
+{
+  "name": "الرصيد - Client Balance Manager",
+  "description": "An Arabic-language dashboard for managing client accounts, tracking balances, and visualizing financial history with data persistence.",
+  "requestFramePermissions": []
+}
